@@ -1,7 +1,9 @@
 ## Plugin Marketplace
 
 This project is a Laravel project to serve as a private marketplace for plugins in the "BetterPlugins" series.
-It's going to offer different options for developers, administrator teams, and server owners. Different plugins are going to have different configuration options.
+It's going to offer different options for developers, administrator teams, and server owners to manage and configure the API; as well as use extensive API support.
+
+Different plugins are going to have different configuration options.
 
 ### Planned features
 
